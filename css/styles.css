@@ -1,0 +1,19 @@
+body {
+  background-color: #ffb51482;
+}
+h1{
+  color: #9e5190;
+}
+a{
+  font-size: 18px;
+  margin-right: 30px;
+  border-style: solid;
+  border-color: green;
+  border-width: 1px;
+  padding: 3px;
+  text-decoration: none;
+}
+p{
+  font-family: avenir;
+  font-size: 16px;
+}
